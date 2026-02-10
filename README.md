@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 Signals and communication is a fascinating and creative domain to work in.  
 I enjoy exploring this field by building systems from the ground up, focusing on core concepts and fundamental building blocks rather than random or disconnected projects.
